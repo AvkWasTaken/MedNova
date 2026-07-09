@@ -1,0 +1,34 @@
+{
+  "demographics": {
+    "name": "John Doe",
+    "dob": "1978-05-12",
+    "gender": "Male"
+  },
+  "medical_history": {
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Sulfa drugs"
+    ]
+  },
+  "medications": [
+    "Metformin 500mg BID",
+    "Lisinopril 10mg QD"
+  ],
+  "lab_results": {
+    "HbA1c": {
+      "value": "7.2%",
+      "date": "2023-01-15"
+    },
+    "Blood Pressure": {
+      "value": "138/88 mmHg",
+      "date": "2023-02-01"
+    }
+  },
+  "notes": [
+    "Follow-up scheduled on April 10"
+  ]
+}
